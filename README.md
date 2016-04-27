@@ -2,7 +2,7 @@
 
 ## Mercurial bash prompt
 
-Based on [git-bash-prompt]() by [jerojasro](https://github.com/jerojasro)
+Based on [git-bash-prompt](https://github.com/Axiacore/axiacore_utils/tree/master/git-bash-prompt) by [jerojasro](https://github.com/jerojasro)
 
 ### Usage
 
